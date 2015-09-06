@@ -1,7 +1,7 @@
 # MISO
 Online Micromagnetic Simulator for demonstration purposes
 
-Just want to find out what's this project is all about? [Click here][project demo]
+Just want to find out what's this project is all about? [Click here](https://s-macke.github.io/MISO/index.html)
 
 Micromagnetism is an approximation of the magnetic behavior of ferromagnets on the nanometer scale averaging the magnetization over several nm.
 It is the world of magnetic domain walls and spin waves and describe ground state properties as well as dynamics.
@@ -15,7 +15,7 @@ and is based on a 2D finite difference grid. The stray field is calculated via a
 
 ### Simulator
 
-* Main [simulator][project demo] page
+* Main [simulator](https://s-macke.github.io/MISO/index.html) page
 
 ### LICENSE
  * The program is distributed under the terms of the MIT License. The license details can be found in the file "LICENSE.md"
